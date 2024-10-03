@@ -17,5 +17,17 @@
  3. apretas Ctrl+O y despues apretas ENTER. Eso guarda el commit
  4. Apretas Ctrl+X y salis.
 
+### subir el git a github
+```sh
+git remote add origin https://github.com/CristianGobbesso/ramas.git
+```
+### borrar ese repositorio remoto 
+```sh
+git remote remove origin
+```
+### ver si se agrego el repo remoto
+```sh
+git remote -v
+```
+
  ## RAMAS
- 
