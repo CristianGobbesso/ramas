@@ -29,5 +29,10 @@ git remote remove origin
 ```sh
 git remote -v
 ```
+### vincular la rama main del remoto con la rama main en el remoto 
+```sh
+git push -u origin main (solo la primera vez)
+git push (las otras veces)
+```
 
  ## RAMAS
