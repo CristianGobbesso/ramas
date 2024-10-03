@@ -34,5 +34,11 @@ git remote -v
 git push -u origin main (solo la primera vez)
 git push (las otras veces)
 ```
+## si se pierde el repo local, lo podes clonar de github con el siguiente codigo
+```sh
+ir a github - apretar en code - copiar el https y pegarlo dentro del siguiente comando:
+git clone https://github.com/CristianGobbesso/ramas.git ./
+```
+
 
  ## RAMAS
