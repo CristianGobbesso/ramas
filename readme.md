@@ -9,4 +9,12 @@
 ### si tenes otro editor y lo queres cambiar a NANO
 ```sh
  git config --global core.editor nano
+  git config --global core.editor "code --wait" (esto es para el editor visual estudio)
  ```
+ ### utilizando editor nano
+ 1. lo inicias con git commit
+ 2. se abre el nano, escribis el mensaje del commit. si te queres explayar abajo del mensaje escribis la descripcion.
+ 3. apretas Ctrl+O y despues apretas ENTER. Eso guarda el commit
+ 4. Apretas Ctrl+X y salis.
+
+ ##
